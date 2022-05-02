@@ -1,6 +1,7 @@
 # python
 
-class work:- Brute-force approach
+##class work:-
+####Brute-force approach
 In this approach, we will follow the Brute-force approach. It is an exhaustive search algorithm where all the possible test solutions are checked for getting the optimal solution.
 Algorithm
 Follow the algorithm to understand the approach better
