@@ -67,9 +67,9 @@ Step 10- Print the value returned by the function
 ```
 Have comment inside the file 
 ```
-##Python Collections (Arrays)
+## Python Collections (Arrays)
 
-###There are four collection data types in the Python programming language:
+### There are four collection data types in the Python programming language:
 
 * List is a collection which is ordered and changeable. Allows duplicate members.
 * Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
