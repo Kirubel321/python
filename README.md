@@ -17,7 +17,7 @@ system scripting.
 * Python can connect to database systems. It can also read and modify files.
 * Python can be used to handle big data and perform complex mathematics.
 * Python can be used for rapid prototyping, or for production-ready software development.
- ```
+ 
 ## Why Python?
 
 * Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
